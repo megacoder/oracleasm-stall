@@ -1,3 +1,6 @@
+PREFIX	=/usr/local
+BINDIR	=${PREFIX}/bin
+
 TARGETS	=all clean check distclean clobber install uninstall
 TARGET	=all
 
