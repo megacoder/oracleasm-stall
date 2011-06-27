@@ -1,0 +1,1 @@
+Sometimes external devices take so long to be recognized, the kernel has long since passed on that phase.  This shell script will wait, holding up the proceedings until the specified devices come online.
